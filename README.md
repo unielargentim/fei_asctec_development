@@ -1,4 +1,4 @@
 fei_asctec_development
 ======================
 
-Development of tools to ruse along with Asctec Pelican at FEI University Centre
+Development of tools to use along with Asctec Pelican at FEI University Centre
